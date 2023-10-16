@@ -24,6 +24,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 ?>
 <!DOCTYPE html>
 <html>
+<!DOCTYPE html>
+<html lang="pt-BR">
 <head>
     <title>Cadastro</title>
 </head>
